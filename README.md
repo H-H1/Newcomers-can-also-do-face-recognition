@@ -1,11 +1,10 @@
 # Newcomers can also do face recognition
  基于opencv人脸识别
-## 分别创建名为
-**datasets
-face_number
-trainer
-**
-的空文件夹
+## 分别创建下列空文件夹
+### datasets
+### face_number
+### trainer
+
 ## WindowS系统需要
 1. Anaconda3 2019.07
 2. python3.7
