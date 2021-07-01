@@ -39,7 +39,7 @@
 ![VXV{2{3W M$6K4AOV}{)EEY](https://user-images.githubusercontent.com/67135504/124168250-7888ff00-dad7-11eb-8e3c-f40fe776e577.png)
 
 ## 2.4后台数据操作
-   >Clean up the model:清除现有的人脸模型(重新训练模型)>
+   >Clean up the model:清除现有的人脸模型(重新训练模型)<   >
    >Clean up the model：清除现有的人脸模型和人脸数据
 
 
