@@ -10,3 +10,6 @@
 2. python3.7
 ## raspberry系统
 1.python2.7
+
+##运行程序
+  >python Face_recognition_system(end).py
